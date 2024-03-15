@@ -1,1 +1,2 @@
 To enhance the clarity of your code, please make an effort to always ensure consistent indentation.
+All coders must adhere to this recommendation.

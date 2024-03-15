@@ -1,4 +1,5 @@
 It is recommended to write meaningful docstring in the code.
 This recommendation is mandatory for all developers.
+Mandatory from this month
 
 
